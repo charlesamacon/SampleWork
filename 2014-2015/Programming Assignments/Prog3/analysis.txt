@@ -1,0 +1,22 @@
+/************************
+Charles Alan Macon
+CSCE 3110 - Summer 2015
+Program 3 - Binary Search Trees
+Due: 07-17-2015
+************************/
+
+Strategy B seems to give the most balance, depending on where the root is located. For my tests, I used
+random input and tested both a random root and a non-random root. I had the programs generate a list of
+100 random numbers between 1 and 999. If the root is located near (or exactly at) the middle, B is a
+fantastic choice, as it will most certainly choose a value extremely close to the average of all values.
+
+If the root is chosen at random, however, there seems to be no clear advantage from one method to the next.
+Yes, strategy B will again choose the closest value to the original root, but it may still be far from the
+average of the overall list. Personally, I prefer this method, as strategy A only takes a part of the
+problem into consideration, and strategy C makes all the same computations as B, but throws them out the
+window in favor of a random solution.
+
+As far as computational time goes, I attempted to measure this using "clicks", but the operations were
+seemingly too fast to do so. This might be related to the issue that presented itself in the last program
+(CSE machines are virtual and don't measure "clicks" accurately). Looking at the code, however, strategy
+A makes far fewer recursive calls than either B or C, and as such, would take less computational time.

@@ -1,0 +1,12 @@
+H:\ITSE 1491 - Introduction to Ado.NET - Flemming\Final\TrackrServiceLibrary\TrackrServiceLibrary\obj\Debug\TrackrServiceLibrary.csprojResolveAssemblyReference.cache
+H:\ITSE 1491 - Introduction to Ado.NET - Flemming\Final\TrackrServiceLibrary\TrackrServiceLibrary\bin\Debug\TrackrServiceLibrary.dll.config
+H:\ITSE 1491 - Introduction to Ado.NET - Flemming\Final\TrackrServiceLibrary\TrackrServiceLibrary\bin\Debug\TrackrServiceLibrary.dll
+H:\ITSE 1491 - Introduction to Ado.NET - Flemming\Final\TrackrServiceLibrary\TrackrServiceLibrary\bin\Debug\TrackrServiceLibrary.pdb
+H:\ITSE 1491 - Introduction to Ado.NET - Flemming\Final\TrackrServiceLibrary\TrackrServiceLibrary\obj\Debug\TrackrServiceLibrary.dll
+H:\ITSE 1491 - Introduction to Ado.NET - Flemming\Final\TrackrServiceLibrary\TrackrServiceLibrary\obj\Debug\TrackrServiceLibrary.pdb
+C:\Users\Alan\Desktop\School Work\web\Final Exam\ASP.NET EVERYTHING\ASP.NET Final\TrackrServiceLibrary\TrackrServiceLibrary\bin\Debug\TrackrServiceLibrary.dll.config
+C:\Users\Alan\Desktop\School Work\web\Final Exam\ASP.NET EVERYTHING\ASP.NET Final\TrackrServiceLibrary\TrackrServiceLibrary\bin\Debug\TrackrServiceLibrary.dll
+C:\Users\Alan\Desktop\School Work\web\Final Exam\ASP.NET EVERYTHING\ASP.NET Final\TrackrServiceLibrary\TrackrServiceLibrary\bin\Debug\TrackrServiceLibrary.pdb
+C:\Users\Alan\Desktop\School Work\web\Final Exam\ASP.NET EVERYTHING\ASP.NET Final\TrackrServiceLibrary\TrackrServiceLibrary\obj\Debug\TrackrServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Desktop\School Work\web\Final Exam\ASP.NET EVERYTHING\ASP.NET Final\TrackrServiceLibrary\TrackrServiceLibrary\obj\Debug\TrackrServiceLibrary.dll
+C:\Users\Alan\Desktop\School Work\web\Final Exam\ASP.NET EVERYTHING\ASP.NET Final\TrackrServiceLibrary\TrackrServiceLibrary\obj\Debug\TrackrServiceLibrary.pdb

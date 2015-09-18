@@ -1,0 +1,10 @@
+C:\C# 2010\FutureValueWincs\FutureValueWincs\bin\Debug\FutureValueWincs.exe
+C:\C# 2010\FutureValueWincs\FutureValueWincs\bin\Debug\FutureValueWincs.pdb
+C:\C# 2010\FutureValueWincs\FutureValueWincs\bin\Debug\CSClassLibrary.dll
+C:\C# 2010\FutureValueWincs\FutureValueWincs\bin\Debug\CSClassLibrary.pdb
+C:\C# 2010\FutureValueWincs\FutureValueWincs\obj\x86\Debug\FutureValueWincs.csprojResolveAssemblyReference.cache
+C:\C# 2010\FutureValueWincs\FutureValueWincs\obj\x86\Debug\FutureValueWincs.frmFutureValue.resources
+C:\C# 2010\FutureValueWincs\FutureValueWincs\obj\x86\Debug\FutureValueWincs.Properties.Resources.resources
+C:\C# 2010\FutureValueWincs\FutureValueWincs\obj\x86\Debug\FutureValueWincs.csproj.GenerateResource.Cache
+C:\C# 2010\FutureValueWincs\FutureValueWincs\obj\x86\Debug\FutureValueWincs.exe
+C:\C# 2010\FutureValueWincs\FutureValueWincs\obj\x86\Debug\FutureValueWincs.pdb

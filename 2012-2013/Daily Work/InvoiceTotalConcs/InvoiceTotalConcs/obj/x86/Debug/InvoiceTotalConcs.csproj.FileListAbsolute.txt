@@ -1,0 +1,9 @@
+C:\C#2010\InvoiceTotalConcs\InvoiceTotalConcs\bin\Debug\InvoiceTotalConcs.exe
+C:\C#2010\InvoiceTotalConcs\InvoiceTotalConcs\bin\Debug\InvoiceTotalConcs.pdb
+C:\C#2010\InvoiceTotalConcs\InvoiceTotalConcs\bin\Debug\CSClassLibrary.dll
+C:\C#2010\InvoiceTotalConcs\InvoiceTotalConcs\bin\Debug\CSClassLibrary.pdb
+C:\C#2010\InvoiceTotalConcs\InvoiceTotalConcs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#2010\InvoiceTotalConcs\InvoiceTotalConcs\obj\x86\Debug\InvoiceTotalConcs.exe
+C:\C#2010\InvoiceTotalConcs\InvoiceTotalConcs\obj\x86\Debug\InvoiceTotalConcs.pdb
+C:\Users\Alan\Desktop\School Work\FL2012 - C#\C# Everything 10-15-2012\Daily Work\InvoiceTotalConcs\InvoiceTotalConcs\obj\x86\Debug\InvoiceTotalConcs.exe
+C:\Users\Alan\Desktop\School Work\FL2012 - C#\C# Everything 10-15-2012\Daily Work\InvoiceTotalConcs\InvoiceTotalConcs\obj\x86\Debug\InvoiceTotalConcs.pdb

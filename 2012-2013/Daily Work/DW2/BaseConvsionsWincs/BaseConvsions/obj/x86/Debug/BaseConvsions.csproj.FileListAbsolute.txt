@@ -1,0 +1,48 @@
+F:\BaseConvsions\BaseConvsions\bin\Debug\BaseConvsions.exe
+F:\BaseConvsions\BaseConvsions\bin\Debug\BaseConvsions.pdb
+F:\BaseConvsions\BaseConvsions\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.Form1.resources
+F:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.Properties.Resources.resources
+F:\BaseConvsions\BaseConvsions\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\BaseConvsions\BaseConvsions\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.exe
+F:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.pdb
+E:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.exe
+E:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.pdb
+E:\BaseConvsions\BaseConvsions\bin\Debug\BaseConvsions.exe
+E:\BaseConvsions\BaseConvsions\bin\Debug\BaseConvsions.pdb
+E:\BaseConvsions\BaseConvsions\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.frmConvert.resources
+E:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.Properties.Resources.resources
+E:\BaseConvsions\BaseConvsions\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BaseConvsions\BaseConvsions\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\carlyle.flemming\C# Programming\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.exe
+K:\carlyle.flemming\C# Programming\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.pdb
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.exe
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.pdb
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\bin\Debug\BaseConvsions.exe
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\bin\Debug\BaseConvsions.pdb
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.frmConvert.resources
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.Properties.Resources.resources
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\carlyle.flemming\C# Programming\Daily Work\BaseConvsions\BaseConvsions\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\carlyle.flemming\C# Programming\Daily Work\DW2\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.exe
+K:\carlyle.flemming\C# Programming\Daily Work\DW2\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.pdb
+C:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.exe
+C:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.pdb
+C:\BaseConvsions\BaseConvsions\bin\Debug\BaseConvsions.exe
+C:\BaseConvsions\BaseConvsions\bin\Debug\BaseConvsions.pdb
+C:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.frmConvert.resources
+C:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.Properties.Resources.resources
+C:\BaseConvsions\BaseConvsions\obj\x86\Debug\BaseConvsions.csproj.GenerateResource.Cache
+C:\BaseConvsionsWincs\BaseConvsions\obj\x86\Debug\BaseConvsions.exe
+C:\BaseConvsionsWincs\BaseConvsions\obj\x86\Debug\BaseConvsions.pdb
+C:\BaseConvsionsWincs\BaseConvsions\bin\Debug\BaseConvsions.exe
+C:\BaseConvsionsWincs\BaseConvsions\bin\Debug\BaseConvsions.pdb
+C:\BaseConvsionsWincs\BaseConvsions\bin\Debug\CSClassLibrary.dll
+C:\BaseConvsionsWincs\BaseConvsions\bin\Debug\CSClassLibrary.pdb
+C:\BaseConvsionsWincs\BaseConvsions\obj\x86\Debug\BaseConvsions.csprojResolveAssemblyReference.cache
+C:\BaseConvsionsWincs\BaseConvsions\obj\x86\Debug\BaseConvsions.frmConvert.resources
+C:\BaseConvsionsWincs\BaseConvsions\obj\x86\Debug\BaseConvsions.Properties.Resources.resources
+C:\BaseConvsionsWincs\BaseConvsions\obj\x86\Debug\BaseConvsions.csproj.GenerateResource.Cache

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ef357975-0783-4209-ba34-6ee4cd75c9b4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:54322/TrackrHost/TrackrService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TrackrService1.xsd" MetadataType="Schema" ID="d8b5d3c2-45b9-438d-9b81-308d4610e5bc" SourceId="1" SourceUrl="http://localhost:54322/TrackrHost/TrackrService.svc?xsd=xsd2" />
+    <MetadataFile FileName="TrackrService1.disco" MetadataType="Disco" ID="37fac1f1-393d-46bb-90bc-5e2be95f0e3c" SourceId="1" SourceUrl="http://localhost:54322/TrackrHost/TrackrService.svc?disco" />
+    <MetadataFile FileName="TrackrService12.xsd" MetadataType="Schema" ID="6b1422bf-9220-4caf-aad8-2deda0bfd2c7" SourceId="1" SourceUrl="http://localhost:54322/TrackrHost/TrackrService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TrackrService13.xsd" MetadataType="Schema" ID="80745ddb-672a-496e-9785-06bcd7a2d864" SourceId="1" SourceUrl="http://localhost:54322/TrackrHost/TrackrService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TrackrService1.wsdl" MetadataType="Wsdl" ID="7089a17a-9a97-41ac-8725-76fce8ba955d" SourceId="1" SourceUrl="http://localhost:54322/TrackrHost/TrackrService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

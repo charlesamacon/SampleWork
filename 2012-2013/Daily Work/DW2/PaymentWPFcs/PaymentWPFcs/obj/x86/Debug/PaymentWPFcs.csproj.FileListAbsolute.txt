@@ -1,0 +1,15 @@
+M:\PaymentWPFcs\PaymentWPFcs\bin\Debug\PaymentWPFcs.exe
+M:\PaymentWPFcs\PaymentWPFcs\bin\Debug\PaymentWPFcs.pdb
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\MainWindow.baml
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\MainWindow.g.cs
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\App.g.cs
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\PaymentWPFcs_MarkupCompile.cache
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\PaymentWPFcs.g.resources
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\PaymentWPFcs.Properties.Resources.resources
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\GenerateResource.write.1.tlog
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\PaymentWPFcs.exe
+M:\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\PaymentWPFcs.pdb
+C:\C# 2010\Chapter 10\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\PaymentWPFcs.exe
+C:\C# 2010\Chapter 10\PaymentWPFcs\PaymentWPFcs\obj\x86\Debug\PaymentWPFcs.pdb

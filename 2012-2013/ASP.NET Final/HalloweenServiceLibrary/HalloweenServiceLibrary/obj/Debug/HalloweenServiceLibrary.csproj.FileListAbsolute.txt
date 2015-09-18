@@ -1,0 +1,6 @@
+E:\Advanced Web Programming\HalloweenServiceLibrary\HalloweenServiceLibrary\bin\Debug\HalloweenServiceLibrary.dll.config
+E:\Advanced Web Programming\HalloweenServiceLibrary\HalloweenServiceLibrary\bin\Debug\HalloweenServiceLibrary.dll
+E:\Advanced Web Programming\HalloweenServiceLibrary\HalloweenServiceLibrary\bin\Debug\HalloweenServiceLibrary.pdb
+E:\Advanced Web Programming\HalloweenServiceLibrary\HalloweenServiceLibrary\obj\Debug\HalloweenServiceLibrary.csprojResolveAssemblyReference.cache
+E:\Advanced Web Programming\HalloweenServiceLibrary\HalloweenServiceLibrary\obj\Debug\HalloweenServiceLibrary.dll
+E:\Advanced Web Programming\HalloweenServiceLibrary\HalloweenServiceLibrary\obj\Debug\HalloweenServiceLibrary.pdb

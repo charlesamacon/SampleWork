@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTotalWPFcs", "InvoiceTotalWPFcs\InvoiceTotalWPFcs.csproj", "{C8BE309A-DF5C-4B9E-B50A-D9AA86755760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BE309A-DF5C-4B9E-B50A-D9AA86755760}.Debug|x86.ActiveCfg = Debug|x86
+		{C8BE309A-DF5C-4B9E-B50A-D9AA86755760}.Debug|x86.Build.0 = Debug|x86
+		{C8BE309A-DF5C-4B9E-B50A-D9AA86755760}.Release|x86.ActiveCfg = Release|x86
+		{C8BE309A-DF5C-4B9E-B50A-D9AA86755760}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+N:\TestconsoleValidatorConcs\TestconsoleValidatorConcs\bin\Debug\TestconsoleValidatorConcs.exe
+N:\TestconsoleValidatorConcs\TestconsoleValidatorConcs\bin\Debug\TestconsoleValidatorConcs.pdb
+N:\TestconsoleValidatorConcs\TestconsoleValidatorConcs\bin\Debug\CSClassLibrary.dll
+N:\TestconsoleValidatorConcs\TestconsoleValidatorConcs\bin\Debug\CSClassLibrary.pdb
+N:\TestconsoleValidatorConcs\TestconsoleValidatorConcs\obj\x86\Debug\ResolveAssemblyReference.cache
+N:\TestconsoleValidatorConcs\TestconsoleValidatorConcs\obj\x86\Debug\TestconsoleValidatorConcs.exe
+N:\TestconsoleValidatorConcs\TestconsoleValidatorConcs\obj\x86\Debug\TestconsoleValidatorConcs.pdb

@@ -1,0 +1,18 @@
+﻿<Window x:Class="InvoiceTotalWPFcs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Invoice Total" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Subtotal" Height="28" HorizontalAlignment="Left" Margin="28,26,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Discount Percent:" Height="28" HorizontalAlignment="Left" Margin="28,69,0,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Discount Amount:" Height="28" HorizontalAlignment="Left" Margin="28,116,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Invoice Total:" Height="28" HorizontalAlignment="Left" Margin="28,158,0,0" Name="label4" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="218,28,0,0" Name="txtSubtotal" VerticalAlignment="Top" Width="120" Tag="Subtotal" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="218,71,0,0" Name="txtDiscountPercent" VerticalAlignment="Top" Width="120" IsReadOnly="True" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="214,120,0,0" Name="txtDiscountAmount" VerticalAlignment="Top" Width="120" IsReadOnly="True" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="214,160,0,0" Name="txtInvoiceTotal" VerticalAlignment="Top" Width="120" IsReadOnly="True" />
+        <Button Content="Calculate" Height="23" HorizontalAlignment="Left" Margin="36,216,0,0" Name="btnCalculate" VerticalAlignment="Top" Width="75" Click="btnCalculate_Click" />
+        <Button Content="Clear" Height="23" HorizontalAlignment="Right" Margin="0,218,264,0" Name="btnClear" VerticalAlignment="Top" Width="75" Click="btnClear_Click" />
+        <Button Content="Exit" Height="23" HorizontalAlignment="Left" Margin="304,220,0,0" Name="btnExit" VerticalAlignment="Top" Width="75" Click="btnExit_Click" />
+    </Grid>
+</Window>
